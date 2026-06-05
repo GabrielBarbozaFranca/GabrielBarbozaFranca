@@ -55,7 +55,7 @@ I enjoy creating **useful solutions** and **learning new tools**.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielBarbozaFranca&show_icons=true)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielbarbozafranca&show_icons=true&theme=tokyonight" />
 
 ---
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
