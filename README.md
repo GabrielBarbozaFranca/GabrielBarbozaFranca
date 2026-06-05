@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6610f2&height=180&section=header&text=Gabriel%20Barboza&fontSize=35&fontColor=ffffff" />
+</p>
+
 # Hi 👋, I'm Gabriel Barboza
 
 🚀 **Technical Informatics Student | Java Student**  
@@ -51,9 +55,9 @@ I enjoy creating **useful solutions** and **learning new tools**.
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielbarbozafranca&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbarbozafranca&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielbarbozafranca&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbarbozafranca&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
