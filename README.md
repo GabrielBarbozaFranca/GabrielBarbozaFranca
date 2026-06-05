@@ -26,7 +26,6 @@ I enjoy creating **useful solutions** and **learning new tools**.
 ## 🧠 What I’m Learning
 
 -   💻 Programming logic & algorithms
--   🌐 Frontend web development
 -   🗄️ Databases & SQL
 -   📊 Systems analysis
 -   🖥️ Computer maintenance & hardware
