@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6610f2&height=180&section=header&text=Gabriel%20Barboza&fontSize=35&fontColor=ffffff" />
-</p>
 
 # Hi 👋, I'm Gabriel Barboza
 
@@ -49,13 +46,6 @@ I enjoy creating **useful solutions** and **learning new tools**.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielbarbozafranca&show_icons=true&theme=tokyonight" />
 
 ---
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
