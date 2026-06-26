@@ -4,8 +4,6 @@
 🚀 **Technical Informatics Student | Java Student**  
 🇧🇷 Brazil
 
-I’m a student of the **Technical Informatics Integrated High School program at IF**, **passionate about technology**, **programming**, and **software development**.
-
 Currently, I’m improving my skills in **Backend development**, **databases**, **logic programming** while building personal projects.
 
 I enjoy creating **useful solutions** and **learning new tools**.
