@@ -6,7 +6,6 @@
 
 Currently, I’m improving my skills in **Backend development**, **databases**, **logic programming** while building personal projects.
 
-I enjoy creating **useful solutions** and **learning new tools**.
 ---
 
 ## 🌐 Where to find me
